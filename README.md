@@ -16,6 +16,27 @@ A simple web application. Task: Build a web application using React.js for the f
 
 - For the client application: In the client directory (if applicable), run the command "npm start" to start the client application.
 
+4. To add a `.env` file with two variables for the database URL and port number, follow these steps:
+
+  1. Create a file named `.env` in the root directory of your project.
+
+  2. Open the `.env` file using a text editor.
+
+  3. Add the following lines to the `.env` file, replacing the placeholders with your actual values:
+
+  ```
+  DATABASE=your_database_url
+  PORT=your_port_number
+  ```
+
+  4. Save the `.env` file.
+
+  5. Make sure to add `.env` to your project's `.gitignore` file to prevent sensitive information from being committed to version control.
+
+  6. In your server application code, you can access these environment variables using a library like `dotenv` or by manually reading the values from the `.env` file.
+
+
+
 4. Access the web application: Once both the server and client applications are running, you should see a URL provided in the terminal or command line. Open your web browser and enter the provided URL to access the web application.
 
 Here are some outputs of the application
