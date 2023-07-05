@@ -18,4 +18,26 @@ A simple web application. Task: Build a web application using React.js for the f
 
 4. Access the web application: Once both the server and client applications are running, you should see a URL provided in the terminal or command line. Open your web browser and enter the provided URL to access the web application.
 
+Here are some outputs of the application
+1.Home
+![Home](https://github.com/EU1182053/grow-global-task/assets/65112935/451af78f-3eae-4959-a38e-abcc0774570e)
+
+2.signup
+![signup](https://github.com/EU1182053/grow-global-task/assets/65112935/b217b161-90f8-4597-8c2f-b2a09f303606)
+
+
+3.login
+![login](https://github.com/EU1182053/grow-global-task/assets/65112935/b8c5da7e-ffc5-4344-b1e7-8804cd095194)
+
+4.add task
+![addtask](https://github.com/EU1182053/grow-global-task/assets/65112935/abcea851-0fcc-482a-af63-56e2a2d364a7)
+
+
+5.edit task
+![edit](https://github.com/EU1182053/grow-global-task/assets/65112935/a0be34b5-99c3-4c58-881d-6ef775315b42)
+
+6.delete task
+![editDelete](https://github.com/EU1182053/grow-global-task/assets/65112935/53d365bc-80c4-4420-9cf9-6bcdeeb820cb)
+
+
 
